@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [NoLife Studies](https://github.com/davidoliveirss/nolife-studies)
 
-- 🌱 I’m currently learning **Quasar & C#**
+- 🌱 I’m currently learning **Vue & C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/davidoliveirss?tab=repositories](https://github.com/davidoliveirss?tab=repositories)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/davidoliveirss?tab=repositories)
 
 - 📫 How to reach me **davidaguasoliveira@gmail.com**
 
