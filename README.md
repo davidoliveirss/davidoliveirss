@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Oliveira</h1>
-<h3 align="center">A young frontend/backend developer from Portugal</h3>
+<h3 align="center">A young developer from Portugal</h3>
 
 - 🔭 I’m currently working on [NoLife Studies](https://github.com/davidoliveirss/nolife-studies)
 
