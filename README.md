@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NoLife Studies](https://github.com/davidoliveirss/nolife-studies)
 
-- 🌱 I’m currently learning **Quasar & C#**
+- 🌱 I’m currently learning **Quasar & Vue & C#**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/davidoliveirss?tab=repositories)
 
