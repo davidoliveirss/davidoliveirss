@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/david-oliveira08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-oliveira08" height="30" width="40" /></a>
 <a href="https://instagram.com/davidoliveirss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="davidoliveirss" height="30" width="40" /></a>
-<a href="https://discord.gg/Xqqdr43X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xqqdr43X" height="30" width="40" /></a>
+<a href="https://discord.gg/RZZRnVnbgt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xqqdr43X" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
